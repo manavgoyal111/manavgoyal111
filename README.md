@@ -6,5 +6,3 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=manavgoyal111&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavgoyal111&layout=compact&langs_count=4)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manavgoyal111)
