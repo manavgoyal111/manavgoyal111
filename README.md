@@ -5,4 +5,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=manavgoyal111)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavgoyal111)](https://github.com/anuragh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavgoyal111&layout=compact&langs_count=4)]
