@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Front-end in HTML, CSS, JavaScript
-- 📫 How to reach me at [my Email](@manavgoyaltheboss@gmail.com)
+- 📫 How to reach me at my Email manav.goyal2020@vitstudent.ac.in
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=manavgoyal111&theme=dark)
 
