@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="600" height="300" src="images/Cover.jpg" alt="My Banner">
+    <img width="1000" height="500" src="images/Cover.jpg" alt="My Banner">
 </p>
 
 <h3 align="center">
