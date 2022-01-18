@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, <br /> I’m <a href="https://manavapp.herokuapp.com/" target="_blank" rel="noreferrer">Manav Goyal</a> A passionate self-taught full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, <br /> I’m <a href="https://manavapp.netlify.app/" target="_blank" rel="noreferrer">Manav Goyal</a> A passionate self-taught full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 </h3>
 
 # Stats
