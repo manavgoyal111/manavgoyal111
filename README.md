@@ -6,7 +6,7 @@
 Hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px" height="15px">, 
 <br />
-I’m <a href="https://manavapp.netlify.app/" target="_blank" rel="noreferrer">Manav Goyal</a>.
+I’m <a href="https://manav.vercel.app/" target="_blank" rel="noreferrer">Manav Goyal</a>.
 A passionate self-taught full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 </h3>
 
